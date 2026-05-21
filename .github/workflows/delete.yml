@@ -1,0 +1,3 @@
+- name: delete branch
+  run: |
+    git push v0.0.1 :githubcicd
